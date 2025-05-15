@@ -15,7 +15,7 @@ $ip = ip_in_ranges($_SERVER["REMOTE_ADDR"],$rango);
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Inicio de sesión Francisco Isaac Galvez Acevedo</title>
+    <title>Inicio de sesión Josue Vladimir Menjivar Cardoza</title>
     
    
     <link rel="stylesheet" href="css/bootstrap.css">
