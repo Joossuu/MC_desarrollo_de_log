@@ -1,0 +1,4 @@
+
+05-17-2025 23:12:56.672500 CST 127.0.0.1 [info]: referer: NULL REFERER El archivo C:\xampp\htdocs\MC_desarrollo_de_log\index.php ha sido cargado Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+05-17-2025 23:13:01.003000 CST 127.0.0.1 [notice]: referer: http://127.0.0.1/MC_desarrollo_de_log/ EL CLIENTE INICIÓ SESIÓN SATISFACTORIAMENTE Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+05-17-2025 23:13:04.052800 CST 127.0.0.1 [notice]: referer: http://127.0.0.1/MC_desarrollo_de_log/ EL CLIENTE INICIÓ SESIÓN SATISFACTORIAMENTE Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
